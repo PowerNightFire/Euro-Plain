@@ -30,4 +30,4 @@
 /lobby_music/escalation5
 	artist = "Opium"
 	title = "Undesignated"
-	song = 'sound/music/biounit.ogg'
+	song = 'sound/music/biounit.mp3'
