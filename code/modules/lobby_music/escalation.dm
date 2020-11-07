@@ -1,9 +1,4 @@
 /*
-/lobby_music/escalation
-	artist = null
-	title = Escalation Theme
-	song = 'sound/music/lobby.ogg'
-
 
 /lobby_music/escalation1
 	artist = "Hotline Miami 2 OST"
@@ -21,6 +16,11 @@
 	song = 'sound/music/beacon.ogg'
 
 */
+
+/lobby_music/escalation
+	artist = "null"
+	title = "In The Element"
+	song = 'sound/music/lobby.ogg'
 
 /lobby_music/escalation4
 	artist = "Unknown"
