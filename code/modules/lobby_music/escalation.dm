@@ -20,7 +20,7 @@
 /lobby_music/escalation
 	artist = "null"
 	title = "In The Element"
-	song = 'sound/music/lobby.ogg'
+	song = 'sound/music/Title-2.ogg'
 
 /lobby_music/escalation4
 	artist = "Unknown"
@@ -30,4 +30,4 @@
 /lobby_music/escalation5
 	artist = "Opium"
 	title = "Undesignated"
-	song = 'sound/music/biounit.mp3'
+	song = 'sound/music/biounit.ogg'
