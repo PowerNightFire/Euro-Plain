@@ -5,9 +5,10 @@ var/list/mining_floors = list()
 /turf/unsimulated/mineral
 	name = "impassable rock"
 	icon = 'icons/turf/walls.dmi'
-	icon_state = "rock-dark1"
+	icon_state = "rock-dark"
 	blocks_air = 1
 	density = 1
+	opacity = 1
 
 /turf/unsimulated/mineral/New()
 	icon_state = "rock-dark[rand(1,6)]"
