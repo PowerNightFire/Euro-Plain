@@ -19,8 +19,8 @@
 
 /lobby_music/escalation
 	artist = "null"
-	title = "Export"
-	song = 'sound/music/Title-2.ogg'
+	title = "dreamcore"
+	song = 'sound/music/fightan.ogg'
 
 /lobby_music/escalation4
 	artist = "Unknown"
