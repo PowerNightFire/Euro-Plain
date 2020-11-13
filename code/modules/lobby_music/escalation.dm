@@ -18,16 +18,21 @@
 */
 
 /lobby_music/escalation
-	artist = "null"
-	title = "dreamcore"
+	artist = "Unknown"
+	title = "Sanskrit"
+	song = 'sound/music/Allerton.ogg'
+
+	/lobby_music/escalation1
+	artist = "Unknown"
+	title = "Dreamcore"
 	song = 'sound/music/fightan.ogg'
 
 /lobby_music/escalation4
 	artist = "Unknown"
-	title = "Water-Vapour"
-	song = 'sound/music/watervapour.ogg'
+	title = "Hearth"
+	song = 'sound/music/Hearth.ogg'
 
 /lobby_music/escalation5
-	artist = "Opium"
-	title = "Undesignated"
-	song = 'sound/music/biounit.ogg'
+	artist = "Unknown"
+	title = "WaterVapour"
+	song = 'sound/music/watervapour.ogg'
