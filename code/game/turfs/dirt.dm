@@ -175,6 +175,29 @@ var/list/turf_edge_cache = list()
 	blend_with_neighbors = 2
 	movement_delay = 2
 
-
 /turf/unsimulated/ground/grass/New()
 	icon_state = "grass[rand(1,3)]"
+
+/turf/unsimulated/ground/muck
+	name = "muck"
+	icon = 'icons/turf/ground.dmi'
+	icon_state = "muck"
+	movement_delay = 4
+
+/turf/unsimulated/ground/darkrock
+	name = "dark rock"
+	icon = 'icons/turf/ground.dmi'
+	icon_state = "darkrock"
+	movement_delay = 2
+
+/turf/unsimulated/ground/rock
+	name = "rock"
+	icon = 'icons/turf/ground.dmi'
+	icon_state = "rock"
+	movement_delay = 2
+
+/turf/unsimulated/ground/rough
+	name = "rough dirt"
+	icon = 'icons/turf/ground.dmi'
+	icon_state = "rough"
+	movement_delay = 3

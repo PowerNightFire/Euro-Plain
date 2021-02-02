@@ -1,0 +1,10 @@
+/obj/structure/light/floor/streetlight
+    name = "streetlight"
+    desc = "A generic lamp post that would emit a decent amount of lighting."
+    icon = 'icons/obj/streetlight.dmi'
+    icon_state = "lamp_post"
+	brightness_range = 5
+	brightness_power = 2
+	density = 1
+	plane = -10
+	anchored = 1
